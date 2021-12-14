@@ -1,0 +1,47 @@
+body{
+    font-family: 'Glegoo', serif;
+    text-align: center;
+    color: #333;
+    line-height: 2;
+  }
+  span{
+      font-weight: 700;
+  }
+  #main{
+    background-color: #f4f4f4;
+    margin: 30px 5px;
+    padding: 40px 10px;
+  }
+  #title{
+      font-size: 2.5rem;
+      font-weight: 700;
+  }
+  #img-div{
+    background-color: #fff;
+    padding-bottom: 5px;
+    width:99%;
+    box-sizing: border-box;
+    margin: auto;
+  }
+  #tribute-info{
+      font-weight: 700;
+  }
+  ul{
+      width: 40%;
+      margin: auto;
+      text-align: left;
+  }
+  ul li{
+      padding: 10px 0;
+  }
+  footer{
+      font-size: 1rem;
+      width: 40%;
+      padding: 40px;
+      text-align: left;
+      margin: auto;
+  }
+  #tribute-link{
+    color: #477ca7;
+  }
+  
