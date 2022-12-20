@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-Click here - [Live Demo](https://abdulhamiid.github.io/tribute-page/)
+Click here - [Live Demo](https://amazing-sopapillas-38a5d6.netlify.app/)
 
 ## Getting Started
 
